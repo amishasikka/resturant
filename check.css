@@ -1,0 +1,221 @@
+/*Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">');
+
+/* Checkout page */
+body{
+    background-image: url(background.image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    font-family: "poppins", sans-serif;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+:root{
+    --main-color: #16b978;
+    --second-color: #081b54;
+}
+.page{
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 10px;
+    height: 550px;
+}
+.chevron{
+    background-color: lightcyan;
+    border: 1px solid #fff;
+    border-radius: 25px;
+    height: 30px;
+    position: absolute;
+    top: 110px;
+    font-size: 30px;
+    color: var(--main-color);
+}
+h2{
+    color: var(--main-color);
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: -60px;
+    right: -100px;    
+    margin: 10px;
+}
+h3{
+    position: absolute;
+    top: 185px;
+    left: 380px;
+    font-weight: normal;
+    font-size: 18px;
+}
+button{
+    position: absolute;
+    top: 200px;
+    left: 650px;
+    border-radius: 10px;
+    width: 100px;
+    height: 35px;
+    background-color: lightcyan;
+    border: navajowhite;
+    font-weight: 600;
+}
+button:hover{
+    background-color: lightblue;
+}
+i{
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 40px;
+    height: 35px;
+    position: absolute;
+    top: 200px;
+    left: 320px;
+    font-size: 35px;
+    color: var(--main-color);
+}
+form{
+    margin-top: 140px;
+    margin-left: 50px;
+}
+#phoneno{
+    position: absolute;
+    left: 360px;
+    top: 289px;
+}
+#address{
+    position: absolute;
+    left: 360px;
+    top: 335px;
+}
+.city{
+    position: absolute;
+    top: 480px;
+    left: 380px;
+}
+.country{
+    position: absolute;
+    top: 435px;
+    left: 360px;
+    width: 100px;
+}
+#country{
+    color: gray;
+    position: absolute;
+    top: 435px;
+    left: 480px;
+    font-size: 15px;
+    border: none;
+}
+#city{
+    color: gray;
+    position:absolute;
+    left: 480px;
+    top: 485px;
+    font-size: 15px;
+    border: none;
+}
+input{
+    border: none;
+    margin-left: 120px;
+    margin-top:50px;
+    height: 30px;
+    font-size: 15px;
+
+}
+.summary h4{
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    width: 50%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.summary button{
+    position: absolute;
+    top: 135px;
+    margin-left: 450px;
+}
+.summary button:hover{
+    background-color: lightblue;
+}
+a.button{
+    background-color: black;
+    width: 200px;
+    position: absolute;
+    top: 300px;
+    font-size: 15px;
+}
+.btn-checkout:hover{
+    background-color: lightblue;
+}
+.summary h1{
+    width: 300px;
+    float: right;
+    position: absolute;
+    top: 200px;
+    right: 450px;
+    font-size: 15px;
+}
+img{
+    width: 40px;
+    height: auto;
+    position: absolute;
+    top: 250px;
+    right: 700px;
+}
+.name{
+    width: 100px;
+    position: absolute;
+    top: 350px;
+    right: 630px;
+}
+.price{
+    width: 100px;
+    position: absolute;
+    top: 330px;
+    right: 630px;
+}
+.quantity{
+    width: 50px;
+    position: absolute;
+    top: 310px;
+    right: 680px;
+}
+.returnPrice{
+    width: 50px;
+    position: absolute;
+    top: 330px;
+    right: 399px;
+}
+.return{
+    margin-top: 230px;
+    width: 120px;
+}
+.row{
+    margin-top: -40px;
+}
+h5{
+    position: absolute;
+    top: 250px;
+    right: 550px;
+}
+.total-title{
+    position: absolute;
+    bottom: 150px;
+    right: 500px;
+}
+.total-price{
+    position: absolute;
+    bottom: 150px;
+    right: 460px;
+}
+h6{
+    position: absolute;
+    top: -70px;
+    right: -60px;
+    font-size: 15px;
+}
+

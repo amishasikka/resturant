@@ -1,0 +1,99 @@
+[
+
+    {
+        "id": 1,
+        "name": "Pumpkin Soup 1",
+        "price": "469",
+        "image": "images/taste15.avif"
+    },
+    {
+        "id": 2,
+        "name": "Flavourful Chicken 2",
+        "price": "1400",
+        "image": "images/taste2.avif"
+    },
+    {
+        "id": 3,
+        "name": "Apptetizing Pasta 3",
+        "price": "569",
+        "image": "images/taste9.avif"
+    },
+    {
+        "id": 4,
+        "name": "Avocado Toast 4",
+        "price": "659",
+        "image": "images/taste4.avif"
+    },
+    {
+        "id": 5,
+        "name": "Delicias Breakfast! 5",
+        "price": "449",
+        "image": "images/taste5.avif"
+    },
+    {
+        "id": 6,
+        "name": "licious Brunch 6",
+        "price": "660",
+        "image": "images/taste6.avif"
+    },
+    {
+        "id": 7,
+        "name": "Creamy CheesePlate 7",
+        "price": "450",
+        "image": "images/taste7.avif"
+    },
+    {
+        "id": 8,
+        "name": "Melty Ice-Creams 8",
+        "price": "249",
+        "image": "images/taste8.avif"
+    },
+    {
+        "id": 9,
+        "name": "Guacamole Salad 9",
+        "price": "668",
+        "image": "images/taste3.avif"
+    },
+    {
+        "id": 10,
+        "name": "Tomato Toast 10",
+        "price": "429",
+        "image": "images/taste16.avif"
+    },
+    {
+        "id": 11,
+        "name": "Orange Juice 11",
+        "price": "229",
+        "image": "images/taste10.avif"
+    },
+    {
+        "id": 12,
+        "name": "Beaf Steak 12",
+        "price": "759",
+        "image": "images/taste11.avif"
+    },
+    {
+        "id": 13,
+        "name": "Meat in Buttersauce 13",
+        "price": "678",
+        "image": "images/taste12.avif"
+    },
+    {
+        "id": 14,
+        "name": "Steak Potatoes 14",
+        "price": "559",
+        "image": "images/taste13.avif"
+    },
+    {
+        "id": 15,
+        "name": "Oreo Cookie Sandwich 15",
+        "price": "349",
+        "image": "images/taste14.avif"
+    },
+    {
+        "id": 16,
+        "name": "Pumpkin Soup 16",
+        "price": "469",
+        "image": "images/taste15.avif"
+    }
+]
